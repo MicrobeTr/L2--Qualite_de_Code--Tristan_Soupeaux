@@ -1,6 +1,6 @@
 # CHATLU BéBOU :)
 tg
 
-![Ceci est une image](https://github.com/user-attachments/assets/ae8b665c-9e15-42aa-a473-97731cfa76ec)
+![Ceci est une image](https://github.com/user-attachments/assets/58f6817c-efa5-4f75-9609-f2ad2dfe977c)
 
 :)
